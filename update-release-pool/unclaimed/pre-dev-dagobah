@@ -2,7 +2,7 @@
   "BBL_STATE_DIR": "environments/update-release-environments/pre-dev-dagobah/bbl-state",
   "BBL_IAAS": "gcp",
   "BBL_ENV_NAME": "pre-dev-dagobah",
-  "BBL_GCP_SERVICE_ACCOUNT_KEY": "environments/update-release-environments/pre-dev-dagobah/pre-dev-dagobah.key.json",
+  "BBL_GCP_SERVICE_ACCOUNT_KEY": "environments/update-release-environments/pre-dev-dagobah/pre-dev.key.json",
   "BBL_GCP_REGION": "europe-west3",
   "BBL_LB_CERT": "../certs/cert.crt",
   "BBL_LB_KEY": "../certs/cert.key",
