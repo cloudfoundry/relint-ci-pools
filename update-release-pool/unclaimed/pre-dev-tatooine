@@ -1,4 +1,5 @@
 {
+  "BBL_CONFIG_DIR": "environments/update-release-environments/pre-dev-tatooine/bbl-config",
   "BBL_STATE_DIR": "environments/update-release-environments/pre-dev-tatooine/bbl-state",
   "BBL_IAAS": "gcp",
   "BBL_ENV_NAME": "pre-dev-tatooine",
