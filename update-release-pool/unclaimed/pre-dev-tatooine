@@ -10,5 +10,7 @@
   "SYSTEM_DOMAIN": "cf.pre-dev-tatooine.env.wg-ard.ci.cloudfoundry.org",
   "CONFIG_FILE_PATH": "environments/update-release-environments/pre-dev-tatooine/integration_config.json",
   "LB_DOMAIN": "cf.pre-dev-tatooine.env.wg-ard.ci.cloudfoundry.org",
-  "GCP_DNS_RECORD_SET_NAME": "cf.pre-dev-tatooine.env.wg-ard.ci.cloudfoundry.org"
+  "GCP_DNS_RECORD_SET_NAME": "cf.pre-dev-tatooine.env.wg-ard.ci.cloudfoundry.org",
+  "GIT_COMMIT_EMAIL": "app-deployments@cloudfoundry.org",
+  "GIT_COMMIT_USERNAME": "ARD WG Bot"
 }
