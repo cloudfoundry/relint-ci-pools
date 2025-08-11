@@ -4,7 +4,7 @@
   "BBL_IAAS": "gcp",
   "BBL_ENV_NAME": "pre-dev-tatooine",
   "BBL_GCP_SERVICE_ACCOUNT_KEY": "environments/update-release-environments/pre-dev-tatooine/pre-dev.key.json",
-  "BBL_GCP_REGION": "europe-west3",
+  "BBL_GCP_REGION": "us-east1",
   "BBL_LB_CERT": "../certs/cert.crt",
   "BBL_LB_KEY": "../certs/cert.key",
   "SYSTEM_DOMAIN": "cf.pre-dev-tatooine.env.wg-ard.ci.cloudfoundry.org",
